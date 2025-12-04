@@ -47,7 +47,7 @@
    → “Technology without wisdom is chaos — wisdom without curiosity is stagnation.”
 
 ⚙️ Currently experimenting with:  
-   - Linux desktop customization (XFCE, KDE, GNOME)  
+   - Linux desktop customization (XFCE, KDE, GNOME, Hyprland)  
    - AI integrations via terminal tools  
    - Python automation & ethical reporting scripts  
    - OSINT tools and privacy-focused investigations  
@@ -55,3 +55,6 @@
 
 📬 Reach me if you want to discuss Linux, AI, philosophy, or strategy —  
 or if you just want to talk about tanks, tech, and yuri.
+
+instagram: @wahidiningrat.marschall
+
