@@ -2,7 +2,7 @@
 
 🐧 Linux Enthusiast & Open-Source Advocate  
    → I live in the terminal, experimenting with distros, shells, and DEs.  
-   → From Pop!_OS to KDE Neon, I believe freedom begins with open systems.
+   → From Pop!_OS to Arch, I believe freedom begins with open systems.
 
 🤖 AI Enthusiast  
    → Passionate about artificial intelligence, automation, and ethical tech.  
