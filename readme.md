@@ -56,5 +56,5 @@
 📬 Reach me if you want to discuss Linux, AI, philosophy, or strategy —  
 or if you just want to talk about tanks, tech, and yuri.
 
-instagram: @wahidiningrat.marschall
+instagram: @nyxokkotsu._
 
